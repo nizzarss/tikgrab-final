@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Setelah domain resmi ditentukan, tambahkan:
+# Sitemap: https://DOMAIN-KAMU/sitemap.xml
