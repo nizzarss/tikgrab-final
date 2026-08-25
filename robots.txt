@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nizzarss.github.io/tikgrab-asli/sitemap.xml
