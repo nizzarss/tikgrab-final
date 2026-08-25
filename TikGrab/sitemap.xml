@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!-- Ganti https://DOMAIN-KAMU dengan domain TikGrab kamu sebelum dipublikasikan. -->
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://DOMAIN-KAMU/</loc></url>
-  <url><loc>https://DOMAIN-KAMU/privacy.html</loc></url>
-  <url><loc>https://DOMAIN-KAMU/terms.html</loc></url>
-  <url><loc>https://DOMAIN-KAMU/contact.html</loc></url>
-</urlset>
